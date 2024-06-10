@@ -16,6 +16,8 @@ A GUIDE is included in this repository for the installation of the extended kern
 ## Español:
 Bienvenido a otro nuevo repositorio, este repositorio busca tener la misma funcion que el anterior [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/).
 
+Esta vez en Windows Vista
+
 En este caso los certificados raiz pueden actualizarse usando los mismos scripts del repositorio [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/) ya que no tienen muchas diferencias.
 
 Aqui se subira Navegadores Web Compatibles y un poco de software compatible con Windows Vista.
