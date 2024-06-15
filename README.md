@@ -13,6 +13,8 @@ Here you will upload Compatible Web Browsers and some software compatible with W
 
 A GUIDE is included in this repository for the installation of the extended kernel created by win32ss + Software compatible with the extended kernel.
 
+To access the published software, go to [Software](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
+
 ## Español:
 Bienvenido a otro nuevo repositorio, este repositorio busca tener la misma funcion que el anterior [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/).
 
@@ -23,3 +25,5 @@ En este caso los certificados raiz pueden actualizarse usando los mismos scripts
 Aqui se subira Navegadores Web Compatibles y un poco de software compatible con Windows Vista.
 
 Se incluye una GUIA en este repositorio para la instalacion del kernel extendido creado por win32ss + Software compatible con el kernel extendido.
+
+Para acceder al software publicado, diríjase a [Software](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
