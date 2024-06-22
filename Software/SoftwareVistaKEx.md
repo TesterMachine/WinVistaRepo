@@ -1,6 +1,3 @@
-# Software for Windows Vista Extended Kernel
-_Writing_
-## _English:_
+# List of software compatible with Windows Vista Extended Kernel
 
-## _Español:_
-
+**_Updated: 22/06/2024_**
