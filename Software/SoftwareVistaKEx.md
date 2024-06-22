@@ -1,5 +1,5 @@
-# Update Cert Root Scripts
-_Update root certificates using scripts_ -> _Actualizar certificados raíz usando scripts_
+# Software for Windows Vista Extended Kernel
+_Writing_
 ## _English:_
 _In this section the Windows 7 root certificates are updated. Windows 7 is currently losing compatibility with certain pages since the certificates are expired or expired._
 
