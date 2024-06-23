@@ -9,9 +9,7 @@ This time with Windows Vista
 
 In this case the root certificates can be updated using the same scripts from the [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/) repository as they do not have many differences.
 
-Here you will upload Compatible Web Browsers and some software compatible with Windows Vista.
-
-A GUIDE is included in this repository for the installation of the extended kernel created by win32ss + Software compatible with the extended kernel.
+Here you will upload Compatible Web Browsers and some software compatible with Windows Vista. (Also included for Windows Vista with extended kernel)
 
 To access the published software, go to  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
 
@@ -22,8 +20,6 @@ Esta vez en Windows Vista
 
 En este caso los certificados raiz pueden actualizarse usando los mismos scripts del repositorio [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/) ya que no tienen muchas diferencias.
 
-Aqui se subira Navegadores Web Compatibles y un poco de software compatible con Windows Vista.
-
-Se incluye una GUIA en este repositorio para la instalacion del kernel extendido creado por win32ss + Software compatible con el kernel extendido.
+Aqui se subira Navegadores Web Compatibles y un poco de software compatible con Windows Vista. (Tambien se incluye para Windows Vista con kernel extendido)
 
 Para acceder al software publicado, diríjase a  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
