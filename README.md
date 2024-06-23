@@ -13,7 +13,7 @@ Here you will upload Compatible Web Browsers and some software compatible with W
 
 A GUIDE is included in this repository for the installation of the extended kernel created by win32ss + Software compatible with the extended kernel.
 
-To access the published software, go to ![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer&link=https%3A%2F%2Fgithub.com%2FTesterMachine%2FWinVistaRepo%2Ftree%2Fmain%2FSoftware)
+To access the published software, go to  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
 
 ## Español:
 Bienvenido a otro nuevo repositorio, este repositorio busca tener la misma funcion que el anterior [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/).
@@ -26,4 +26,4 @@ Aqui se subira Navegadores Web Compatibles y un poco de software compatible con 
 
 Se incluye una GUIA en este repositorio para la instalacion del kernel extendido creado por win32ss + Software compatible con el kernel extendido.
 
-Para acceder al software publicado, diríjase a ![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer&link=https%3A%2F%2Fgithub.com%2FTesterMachine%2FWinVistaRepo%2Ftree%2Fmain%2FSoftware)
+Para acceder al software publicado, diríjase a  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
