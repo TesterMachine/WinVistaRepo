@@ -1,4 +1,4 @@
-# WinVistaRepo
+# WinVistaRepo ![Static Badge](https://img.shields.io/badge/Windows%20Vista-blue?style=flat&logo=windowsxp)
 Repository for Windows Vista in order to maintain compatible software, update root certificates, etc.
 
 ## English:
