@@ -2,4 +2,4 @@
 
 **_Updated: 22/06/2024_**
 
-## 
+## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)]()
