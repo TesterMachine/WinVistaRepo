@@ -13,6 +13,8 @@ Here you will upload Compatible Web Browsers and some software compatible with W
 
 To access the published software, go to  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
 
+For users who want to install the Windows Vista extended kernel go to the [MSFN forum](https://msfn.org/board/topic/183046-guide-vista-extended-kernel-installation/)
+
 ## Español:
 Bienvenido a otro nuevo repositorio, este repositorio busca tener la misma funcion que el anterior [W7RevivalTools](https://github.com/TesterMachine/W7RevivalTools/).
 
@@ -23,3 +25,5 @@ En este caso los certificados raiz pueden actualizarse usando los mismos scripts
 Aqui se subira Navegadores Web Compatibles y un poco de software compatible con Windows Vista. (Tambien se incluye para Windows Vista con kernel extendido)
 
 Para acceder al software publicado, diríjase a  [![Static Badge](https://img.shields.io/badge/Software-blue?style=flat-square&logo=buffer)](https://github.com/TesterMachine/WinVistaRepo/tree/main/Software)
+
+Para los usuarios que quieran instalar el kernel extendido de windows vista ve al [foro de MSFN](https://msfn.org/board/topic/183046-guide-vista-extended-kernel-installation/)
