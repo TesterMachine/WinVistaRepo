@@ -11,6 +11,6 @@ _(In the original installers the shortcuts are not created that's why create it 
 
 | Name        | Version                                         | Status                                                     | Download |
 |-------------|-------------------------------------------------|------------------------------------------------------------|----------|
-| CentBrowser | 5.1.1130.128 (Based on Chromium 118.0.5993.159) | ![Static Badge](https://img.shields.io/badge/Stable-green) | [x64]()  |
+| CentBrowser | 5.1.1130.128 (Based on Chromium 118.0.5993.159) | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64]()  |
 |             |                                                 |                                                            |          |
 |             |                                                 |                                                            |          |
