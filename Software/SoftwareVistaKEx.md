@@ -5,7 +5,7 @@ _Some installers on this list will have shorteners, as these installers are crea
 
 _(In the original installers the shortcuts are not created that's why create it using SFX)_
 
-**_Updated: 22/06/2024_**
+**_Updated: 24/06/2024_**
 
 ## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md#)
 
