@@ -9,8 +9,15 @@ _(In the original installers the shortcuts are not created that's why create it 
 
 ## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md#)
 
-| Name        | Version                                         | Status                                                     | Download                                   |
-|-------------|-------------------------------------------------|------------------------------------------------------------|--------------------------------------------|
-| CentBrowser | 5.1.1130.128 (Based on Chromium 118.0.5993.159) | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64](https://exe.io/CentBrowserInstaller) |
-|             |                                                 |                                                            |                                            |
-|             |                                                 |                                                            |                                            |
+| Name:        | Version:                                        | Status:                                                    | Download:                                   |
+|--------------|-------------------------------------------------|------------------------------------------------------------|---------------------------------------------|
+| CentBrowser  | 5.1.1130.128 (Based on Chromium 118.0.5993.159) | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64](https://exe.io/CentBrowserInstaller)  |
+| BraveBrowser | v1.47.186 (Based on Chromium 109.0.5414.119)    | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64](https://exe.io/BraveBrowserInstaller) |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
+|              |                                                 |                                                            |                                             |
