@@ -5,6 +5,8 @@ _Some installers on this list will have shorteners, as these installers are crea
 
 _(In the original installers the shortcuts are not created that's why create it using SFX)_
 
+_You can get more software compatible with Windows Vista Extended Kernel on the [MSFN forum](https://msfn.org/board/topic/181696-software-compatible-with-windows-vista-extended-kernel/)_
+
 **_Updated: 26/06/2024_**
 
 ## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md#)
