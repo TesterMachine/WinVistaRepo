@@ -25,3 +25,9 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 |                 |                                                            |                                                            |                                                              |
 
 ## [![Static Badge](https://img.shields.io/badge/Social-blue?logo=googlechat&logoColor=F7F9F2)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md)
+
+| Name:                          | Version:                       | Status:                                                    | Download:                                                  |
+|--------------------------------|--------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| ArmCord(Custom Client Discord) | Latest                         | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/Alex313031/ArmCord-Win7/releases/latest) |
+| Telegram                       | Latest (Only Portable Version) |                                                            | [https://telegram.org/dl/desktop/win64_portable]()         |
+|                                |                                |                                                            |                                                            |
