@@ -29,5 +29,5 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 | Name:                          | Version:                       | Status:                                                    | Download:                                                  |
 |--------------------------------|--------------------------------|------------------------------------------------------------|------------------------------------------------------------|
 | ArmCord(Custom Client Discord) | Latest                         | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/Alex313031/ArmCord-Win7/releases/latest) |
-| Telegram                       | Latest (Only Portable Version) |                                                            | [https://telegram.org/dl/desktop/win64_portable]()         |
+| Telegram Desktop               | Latest (Only Portable Version) | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](https://telegram.org/dl/desktop/win64_portable)     |
 |                                |                                |                                                            |                                                            |
