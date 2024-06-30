@@ -9,7 +9,7 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 
 **_Updated: 26/06/2024_**
 
-## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md#)
+## [![Static Badge](https://img.shields.io/badge/Browsers-blue?style=flat-square&logo=microsoftedge)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md)
 
 | Name:           | Version:                                                   | Status:                                                    | Download:                                                    |
 |-----------------|------------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------------|
@@ -23,3 +23,5 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 | Thorium         | Latest (all versions are supported) Based on Chromium 122+ | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/Alex313031/thorium-legacy/releases/latest) |
 |                 |                                                            |                                                            |                                                              |
 |                 |                                                            |                                                            |                                                              |
+
+## [![Static Badge](https://img.shields.io/badge/Social-blue?logo=googlechat&logoColor=F7F9F2)]()
