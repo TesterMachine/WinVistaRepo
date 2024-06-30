@@ -24,4 +24,4 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 |                 |                                                            |                                                            |                                                              |
 |                 |                                                            |                                                            |                                                              |
 
-## [![Static Badge](https://img.shields.io/badge/Social-blue?logo=googlechat&logoColor=F7F9F2)]()
+## [![Static Badge](https://img.shields.io/badge/Social-blue?logo=googlechat&logoColor=F7F9F2)](https://github.com/TesterMachine/WinVistaRepo/blob/main/Software/SoftwareVistaKEx.md)
