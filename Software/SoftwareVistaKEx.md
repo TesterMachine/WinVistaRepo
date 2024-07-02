@@ -19,7 +19,7 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 | Google Chrome   | Based on Chromium 109.0.5414.168                           | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64]()                                                      |
 | Opera Browser   | v95.0.4635.90 (Based on Chromium 109.0.5414.149)           | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64]()                                                      |
 | Vivaldi Browser | v5.6.2867.62 (Based on Chromium 108.0.5359.216)            | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [x64]()                                                      |
-| Supermium       | Latest (all versions are supported) Based on Chromium 122+ | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/win32ss/supermium/releases/latest)         |
+| Supermium       | Latest (all versions are supported) Based on Chromium 122+ | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](https://github.com/win32ss/supermium/releases/latest)         |
 | Thorium         | Latest (all versions are supported) Based on Chromium 122+ | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/Alex313031/thorium-legacy/releases/latest) |
 |                 |                                                            |                                                            |                                                              |
 |                 |                                                            |                                                            |                                                              |
@@ -28,6 +28,6 @@ _You can get more software compatible with Windows Vista Extended Kernel on the 
 
 | Name:                          | Version:                       | Status:                                                    | Download:                                                  |
 |--------------------------------|--------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| ArmCord(Custom Client Discord) | Latest                         | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](github.com/Alex313031/ArmCord-Win7/releases/latest) |
+| ArmCord(Custom Client Discord) | Latest                         | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](https://github.com/Alex313031/ArmCord-Win7/releases/latest) |
 | Telegram Desktop               | Latest (Only Portable Version) | ![Static Badge](https://img.shields.io/badge/Stable-lemon) | [Link](https://telegram.org/dl/desktop/win64_portable)     |
 |                                |                                |                                                            |                                                            |
